@@ -22,14 +22,6 @@
 - Vulnerability research & penetration testing
 - Automation & scripting
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svenrobbie&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="svenrobbie's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=svenrobbie&theme=github_dark&hide_border=true&cache_seconds=86400" alt="svenrobbie's GitHub Streak" width="49%" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
@@ -47,12 +39,8 @@
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svenrobbie&layout=compact&theme=github_dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
-
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/svenvdlagemaat/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:contact@c14h19no2.nl" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://c14h19no2.nl" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/svenvdlagemaat/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:contact@c14h19no2.nl" target="_blank"><img src="https://www.svgrepo.com/download/521128/email-1.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://c14h19no2.nl" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
